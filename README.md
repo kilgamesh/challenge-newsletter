@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/kilgamesh/challenge-newsletter)
-- [Live](https://0hundred.dev)
+- [Live](https://challenge-newsletter.vercel.app/)
 
 ### Built with
 
